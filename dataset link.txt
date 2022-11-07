@@ -1,0 +1,5 @@
+
+https://data.world/data-society/student-alcohol-consumption
+
+
+this is the link where we get dataset and second existing module that id alchool prediction.
